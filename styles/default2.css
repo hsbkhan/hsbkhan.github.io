@@ -1,0 +1,23 @@
+body
+{
+	background-color: #D4ABAB;
+	font-family: 'Oswald', sans-serif;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-right: auto;
+	margin-left: auto;
+	border: 12px inset #1C6EA4;;
+	padding: 30px;
+	width: 1000px;
+	
+	
+}
+h1
+{
+	text-align: center;
+	
+}
+footer
+{	
+	text-align: center;
+}
